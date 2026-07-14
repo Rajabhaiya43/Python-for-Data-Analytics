@@ -50,7 +50,7 @@ This repository documents my **Python for Data Analytics** learning journey. It 
 
 - ✅ Python Basics
 - ✅ NumPy
-- ⏳ Pandas
+- ✅ Pandas
 - ⏳ Matplotlib
 - ⏳ Seaborn
 - ⏳ Data Analysis Projects
